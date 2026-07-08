@@ -1,0 +1,6 @@
+{
+  "name": "Foodie In Bangalore",
+  "description": "Premium food delivery and menu website for Foodie In Bangalore, specializing in fresh meat rolls for over 5 years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
